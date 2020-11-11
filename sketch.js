@@ -23,7 +23,7 @@ function setup() {
 }
 
 function draw() {
-	image(imm, pmouseX, pmouseY, 10, 10);
+	image(imm0, pmouseX, pmouseY, 10, 10);
 }
 
 
